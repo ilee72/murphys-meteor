@@ -11,7 +11,7 @@
 .murphys-background {
   background: url(http://murphyshawaii.com/media/2014/04/murphys-front.jpg) no-repeat center center fixed;
   background-size: cover;
-  height: 500px;
+  height: 650px;
   color: white;
 }
 
@@ -24,4 +24,7 @@
   color: white;
   padding-top: 20px;
   padding-bottom: 20px;
+  position: absolute;
+  bottom: 0px;
+  width: -webkit-fill-available;
 }
